@@ -1,0 +1,13 @@
+{
+    "name": "Class Widgets 签到",
+    "description": "Class Widget签到程序",
+    "version": "1.0.0",
+    "plugin_ver": 1,
+    "author": "Cheems",
+    "settings": true,
+
+    "url": "https://github.com/xuhaoyang123321",
+    "branch": "main",
+
+    "update_date": "2025/2/5"
+}
